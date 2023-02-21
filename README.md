@@ -142,7 +142,7 @@ Kolom shooting terdiri dari value 'Y' yang menyatakan insiden kriminal yang dica
 # **Bagaimana perubahan trend kriminalitas dari waktu ke waktu?**
 Berdasarkan data klinis yang dikumpulkan oleh National Confidential Inquiry into Suicide and Safety in Mental Health (NCISH), Pelanggaran/tindak kriminal lebih mungkin terjadi pada akhir pekan, sebagian besar pada hari Sabtu [sumber: Jurnal "Do homicide rates increase during weekends and national holidays?",2019](https://www.researchgate.net/publication/332279464_Do_homicide_rates_increase_during_weekends_and_national_holidays)
 Untuk itu saya akan mencoba uji hipotesis dengan one sample z-test dengan hipotesis :
-- H0 : persentase tindakan kriminal yang terjadi pada weekend = 0.28 (2/7 (jumlah weekend/jumlah hari))
+- Ho : persentase tindakan kriminal yang terjadi pada weekend = 0.28 (2/7 (jumlah weekend/jumlah hari))
 - Ha : persentase tindakan kriminal yang terjadi pada weekend != 0.28 (2/7 (jumlah weekend/jumlah hari))
 - Hasil:
 pvalue =2.9689318061383294e-55, pvalue < 0.05, berhasil menolak Ho')
