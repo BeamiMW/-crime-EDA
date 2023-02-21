@@ -146,7 +146,7 @@ Untuk itu saya akan mencoba uji hipotesis dengan one sample z-test dengan hipote
 - Ha : persentase tindakan kriminal yang terjadi pada weekend != 0.28 (2/7 (jumlah weekend/jumlah hari))
 - Hasil:
 pvalue =2.9689318061383294e-55, pvalue < 0.05, berhasil menolak Ho')
-kita punya cukup bukti untuk mengatakan bahwa tindakan kriminal yang terjadi pada weekend tidak sama dengan 0.28
+kita punya cukup bukti untuk mengatakan bahwa persentase tindakan kriminal yang terjadi pada weekend tidak sama dengan 0.28
 (proporsi berbeda signifikan)
 ## Insight
 - Berdasarkan hasil uji one sample z-test dapat diambil kesimpulan bahwa tindakan kriminal sering terjadi di weekday dibandingkan di weekend
