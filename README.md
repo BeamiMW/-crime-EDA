@@ -126,7 +126,7 @@ Berdasarkan pengamatan deskriptif, dapat dilihat bahwa:
 - Di district E5 paling sering terjadi insiden kriminal dari UCR part 3 dan paling sedikit UCR part 1
 - Di district A1 paling sering terjadi insiden kriminal dari UCR part 3 dan paling sedikit UCR part 1
 - Di district D14 paling sering terjadi insiden kriminal dari UCR part 3 dan paling sedikit UCR part 1
-- Di district D4 paling sering terjadi insiden kriminal dari UCR part 3 dan paling sedikit UCR part 1
+- Di district D4 paling sering terjadi insiden kriminal dari UCR part 3 dan paling sedikit UCR part 2
 - Di district A15 paling sering terjadi insiden kriminal dari UCR part 3 dan paling sedikit UCR part 1
 
 # **Apa jenis insiden kriminal berdasarkan UCR part yang paling sering terjadi?**
